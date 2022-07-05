@@ -1,0 +1,25 @@
+table, th, td {
+    border:1px solid black;
+  }
+  th{
+      color: green;
+      background-color: orange;
+  }
+  p{
+      color: red;
+  }
+
+  div{
+    background-color: yellow;
+  }
+
+  button {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: black;
+    padding: 10px;
+  }
